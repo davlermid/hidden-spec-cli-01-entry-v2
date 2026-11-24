@@ -1,0 +1,9 @@
+{
+  "harness": "opencode",
+  "model": "openrouter/auto",
+  "messages": [
+    {"role": "user", "content": "Build mend CLI tool for hidden-spec-cli-01"},
+    {"role": "assistant", "content": "Built main.ts with unified diff, search/replace, V4A, and JSON parsers"}
+  ],
+  "handed_over": "No session recording available - custom agent"
+}
