@@ -1,1 +1,0 @@
-You are an AI agent building mend CLI tool for make.fun hidden-spec-cli-01 competition. The tool applies AI model edits in four formats: unified diff, SEARCH/REPLACE, V4A patch, and JSON edits.
